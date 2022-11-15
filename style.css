@@ -28,7 +28,7 @@ h1{
     font-size: 30px;
     text-align: center;
     margin: 0 5px 0 25px;
-    padding: 0 5px 0 25px;
+   
 }
 
 h2{ text-align: center;
@@ -37,6 +37,7 @@ h2{ text-align: center;
 
 p{
     text-align: justify;
+    margin: 0 5px 0 25px;
 }
 
 .titulo-centrlizado{
