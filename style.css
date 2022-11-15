@@ -3,7 +3,7 @@
 }
 
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(36, 158, 19);
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(111, 10, 194);
 	background-color: rgb(243, 117, 180);	/
 }
 
@@ -17,7 +17,7 @@ header{
 }
 
 .principal{
-	background: #CCCCCC;
+	background: #fff67cf6;
 	padding: 30px;	
     align-items: center;
     justify-content: space-between;
