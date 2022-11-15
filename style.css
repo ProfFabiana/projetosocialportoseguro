@@ -15,7 +15,11 @@ header{
     justify-content: space-between;
 }
 
-
+.escolha {
+    position: absolute;
+    top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
 
 h1{
     font-size: 45px;
