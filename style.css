@@ -13,11 +13,8 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-.logo{
-    background-color: antiquewhite;
-}
 
+}
 
 
 h1{
@@ -36,15 +33,3 @@ nav a{
     text-transform: uppercase;
 }
 
-
-}
-h4 {
-    color: rgb(31, 44, 226);
-    text-align: center;
-    font-size: 30px;
-    background-color: #FF80BA;
-    border: 2px solid rgb(100, 211, 155);
-    border-radius: 10px;
-    margin: 0 0 20px 0;
-    padding: 10px;
-}
