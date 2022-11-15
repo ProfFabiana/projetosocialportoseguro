@@ -37,3 +37,8 @@ nav a{
     float: right;
     position: absolute;
 }
+h4 {
+    color: black;
+    font-size: 32px;
+    text-align: center;
+}
