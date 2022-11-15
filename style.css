@@ -19,6 +19,9 @@ header{
 .principal{
 	background: #CCCCCC;
 	padding: 30px;	
+    align-items: center;
+    justify-content: space-between;
+
 }
 
 
