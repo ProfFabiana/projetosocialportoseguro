@@ -38,8 +38,11 @@ nav a{
     position: absolute;
 }
 h4 {
-    color: rgb(104, 29, 243);
-    font-size: 22px;
+    color: rgb(31, 44, 226);
     text-align: center;
-    margin-left: 100%
+    font-size: 90px;
+    background-color: #FF80BA;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 0 0 20px 0;
 }
