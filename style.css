@@ -24,10 +24,14 @@ header{
 
 }
 
-
 h1{
     font-size: 45px;
 }
+
+.titulo-centrlizado{
+	text-align: center
+    
+    }
 
 nav li{
     font-size: 25px;
