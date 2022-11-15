@@ -21,6 +21,7 @@ header{
     height: 50%;
     margin-left: 40%;
     border: dotted #145ba7;
+    display: block;
 }
 
 .principal{
