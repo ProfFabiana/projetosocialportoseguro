@@ -47,8 +47,8 @@ p{
 
 nav li{
     font-size: 20px;
-    display: inline-flexbox;
-    margin: 0 5px 0 25px;
+    display: inline-flex;
+    margin: 0 5px 0 5px;
 }
 
 nav a{
