@@ -16,6 +16,17 @@ header{
 
 }
 
+#imagem-principal {
+    width: 10%;
+    height: 50%;
+    margin-left: 40%;
+    border: dotted #145ba7;
+}
+
+#imagem-secundária {
+    width: 13%;
+    position: relative;
+
 .principal{
 	background: #fff67cf6;
 	padding: 30px;	
