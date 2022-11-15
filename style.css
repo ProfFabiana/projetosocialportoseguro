@@ -15,6 +15,10 @@ header{
     justify-content: space-between;
 }
 
+div {
+	color: rgb(248, 246, 113);
+}
+
 h1{
     font-size: 45px;
 }
