@@ -1,8 +1,40 @@
 body {
 
-.imagem1 {
-	width: 20%;
-	 }
+	header {
+		background: #36da36;
+		padding: 20px 0;
+	}
+	
+	img {
+		margin-right: 480px;
+		height: 200px;
+		padding-right: 20%;
+	
+	.caixa {
+		position: relative;
+		width: 940px;
+		margin: 0 auto;
+		display: block;
+	}
+	
+	nav {
+		position: absolute;
+		top: 110px;
+		right: 0;
+	}
+	nav li{
+		display: inline;
+		margin: 20px;
+		font-size: 1em;
+	}
+	
+	nav a {
+		text-transform: uppercase;
+		color: #ddf50b;
+		font-weight: bold;
+		font-size: 22px;
+		text-decoration: none;
+	}
 	
 
 .principal{
