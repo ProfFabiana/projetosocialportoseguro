@@ -6,14 +6,11 @@ body {
 	}
 	
 	img {
-		margin-right: 480px;
-		height: 200px;
-		padding-right: 20%;
-	
+		width: auto;
+
 	.caixa {
-		position: relative;
+		position: absolute;
 		width: 940px;
-		margin: 0 auto;
 		display: block;
 	}
 	
