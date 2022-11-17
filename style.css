@@ -64,7 +64,7 @@ p{
 nav li{
     font-size: 20px;
     margin: 0 5px 0 25px;
-    display: inline; left: 10px;
+    display: inline; right: inherit; 10px;
 }
 
 nav a{
