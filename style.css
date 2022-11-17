@@ -16,9 +16,9 @@ header{
 
 }
 .menu{
-position: relative;
+position: absolute;
 display: inline-flex;
-border-style: double;
+
 }
 
 
