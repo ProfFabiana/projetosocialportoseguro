@@ -15,12 +15,6 @@ header{
     justify-content: space-between;
 
 }
-.menu{
-position: absolute;
-
-
-}
-
 
 #imagem-principal {
     width: 10%;
@@ -59,7 +53,12 @@ p{
     margin: 0 5px 0 25px;
 }
 
-
+.menu{
+    position: static;
+    left: auto;   
+    
+    }
+    
 
 nav li{
     font-size: 20px;
