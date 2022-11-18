@@ -32,9 +32,6 @@ header{
 
 }
 
-.titulo{
-    
-}
 
 h1{
     font-size: 50px;
@@ -58,12 +55,6 @@ p{
     text-align: justify;
     margin: 0 5px 0 25px;
 }
-
-.menu{
-    position: static;
-    left: auto;   
-    
-    }
     
 
 nav li{
