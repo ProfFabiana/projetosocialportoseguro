@@ -25,11 +25,16 @@ header{
 }
 
 .principal{
-	background: #00BFFF;
-	padding: 30px;	
-    align-items: center;
-    justify-content: space-between;
-
+	
+  font-size: 40px;
+  text-align: center;
+  margin: 8%;
+  border: 2px solid #0f1942;
+  padding: 30px;
+  border-radius: 50px 20px;
+  background-color: #c1e4ef;
+  font-family: 'Fredericka the Great', cursive;
+  color: #0f1942;
 }
 
 
