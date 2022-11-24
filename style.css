@@ -60,7 +60,9 @@ p{
     margin: 0 5px 0 25px;
 }
     
-
+nav ul{
+    display: inline-block;
+}
 nav li{
     
     display: inline-block
