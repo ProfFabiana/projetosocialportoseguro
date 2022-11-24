@@ -62,6 +62,8 @@ p{
     
 nav ul{
     display: inline-block;
+    margin-left: auto;
+    
 }
 nav li{
     
