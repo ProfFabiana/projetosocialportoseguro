@@ -63,7 +63,8 @@ p{
 nav ul{
     display: inline-block;
     margin-left: auto;
-    
+    text-align: end;
+
 }
 nav li{
     
