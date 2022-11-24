@@ -67,6 +67,7 @@ p{
     
 .menu {
     position: absolute;
+    border-bottom-left-radius: 0%;
     right:20px;
     margin-left: 45%;
     font-size: 30px; font-family: monospace;
