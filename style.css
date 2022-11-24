@@ -69,7 +69,10 @@ nav ul{
     display: block;
     text-align: end;
     margin-bottom: auto;
+}
 
+nav li{
+    display: inline;
 }
 
 nav a{
