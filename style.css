@@ -69,7 +69,7 @@ nav li{
 nav a{
     text-decoration: none;
     color: rgba(255, 0, 43, 0.712);
-    text-align: center;
+    font-size: 100%;
 }
 
     footer {
