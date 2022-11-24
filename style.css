@@ -61,9 +61,10 @@ p{
 }
     
 nav ul{
-    display: inline;
+    display: block;
     margin-left: auto;
     text-align: end;
+
 
 }
 
