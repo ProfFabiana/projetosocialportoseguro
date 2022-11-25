@@ -89,6 +89,16 @@ nav a{
     font-size: 100%;
 }
 
+.home{
+    margin-top: 10%;
+    text-decoration: none;
+      background-color: #b380cc;
+      color: white;
+      padding: 15px;
+      display: inline-block;
+      font-family: arial, sans-serif;
+      position: relative;
+
     footer {
         background-color: blue;
         color: #FFF;
