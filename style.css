@@ -92,13 +92,13 @@ nav a{
 .home{
     margin-top: 10%;
     text-decoration: none;
-    border-radius: 2%;
       background-color: white;
       color: #32CD32;
       padding: 15px;
       display: inline-block;
       font-family: arial, sans-serif;
       position: relative;
+      border-radius: 3%;
 
     footer {
         background-color: blue;
