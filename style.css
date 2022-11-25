@@ -43,6 +43,7 @@ h1{
 nav {
     position: absolute;
     bottom: auto;
+    top: 30%;
     right: 10%;
     margin-left: 45%;
     font-size: 30px; font-family: monospace;
