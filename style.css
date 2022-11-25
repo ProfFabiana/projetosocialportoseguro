@@ -41,7 +41,7 @@ h1{
 }
 
 nav {
-    position: relative;
+    position: absolute;
     bottom: auto;
     right: 10%;
     margin-left: 45%;
