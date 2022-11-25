@@ -47,8 +47,7 @@ nav {
     right: 10%;
     margin-left: 45%;
     font-size: 30px; font-family: monospace;
-    border-radius: 0%;
-}
+    }
 
 .principal{
 	
@@ -82,6 +81,7 @@ nav ul{
 
 nav li{
     display: inline;
+    border-bottom: #FFF;
 }
 
 nav a{
