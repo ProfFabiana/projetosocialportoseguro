@@ -81,7 +81,7 @@ nav ul{
 
 nav li{
     display: inline;
-    border-bottom: #FFF;
+    border-radius: #FFF;
 }
 
 nav a{
