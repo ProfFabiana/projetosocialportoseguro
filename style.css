@@ -81,14 +81,12 @@ nav ul{
 
 nav li{
     display: inline;
-    border-radius: rgb(94, 236, 94);
-}
+   }
 
 nav a{
     text-decoration: none;
     color: rgba(255, 0, 43, 0.712);
     font-size: 100%;
-    border-radius: 3%;
 }
 
     footer {
